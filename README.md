@@ -13,5 +13,5 @@ RMSD for curcumin project
 https://github.com/Jarrod555/Computational-Chemistry-Projects/blob/main/RMSD_curcumin_project.ipynb
 
 
-
-MetalDock progress
+Analysis of Polyacrylate synthesis lab data
+https://github.com/Jarrod555/Computational-Chemistry-Projects/blob/main/Data_trends_in_the_synthesis_of_Polyacrylate_%26_literature_comparison_.ipynb
